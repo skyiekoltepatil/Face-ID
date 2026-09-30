@@ -1,0 +1,65 @@
+{
+  "": {
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/primary.swiftdeps"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/AntiSpoofClassifierTests.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/AntiSpoofClassifierTests.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/AntiSpoofClassifierTests.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/AntiSpoofClassifierTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/AntiSpoofClassifierTests.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/AntiSpoofClassifierTests.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/EmbeddingTests.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/EmbeddingTests.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/EmbeddingTests.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/EmbeddingTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/EmbeddingTests.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/EmbeddingTests.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceEmbedderTests.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceEmbedderTests.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceEmbedderTests.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceEmbedderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceEmbedderTests.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceEmbedderTests.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceGeometryTests.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceGeometryTests.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceGeometryTests.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceGeometryTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceGeometryTests.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceGeometryTests.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/LockStateMonitorTests.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/LockStateMonitorTests.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/LockStateMonitorTests.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/LockStateMonitorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/LockStateMonitorTests.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/LockStateMonitorTests.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ResourceBundlingTests.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ResourceBundlingTests.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ResourceBundlingTests.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ResourceBundlingTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ResourceBundlingTests.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ResourceBundlingTests.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ScreensaverWatcherTests.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ScreensaverWatcherTests.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ScreensaverWatcherTests.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ScreensaverWatcherTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ScreensaverWatcherTests.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ScreensaverWatcherTests.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/SecureStoreTests.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/SecureStoreTests.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/SecureStoreTests.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/SecureStoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/SecureStoreTests.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/SecureStoreTests.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/VerificationPipelineTests.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/VerificationPipelineTests.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/VerificationPipelineTests.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/VerificationPipelineTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/VerificationPipelineTests.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/VerificationPipelineTests.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/resource_bundle_accessor.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/resource_bundle_accessor.dia"  }
+}

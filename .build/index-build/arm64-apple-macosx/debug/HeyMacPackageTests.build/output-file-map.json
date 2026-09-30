@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/primary.swiftdeps"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/runner.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/runner.dia"  }
+}

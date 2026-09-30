@@ -1,0 +1,3 @@
+module HeyMacEngine {
+    header "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/include/HeyMacEngine-Swift.h"
+}

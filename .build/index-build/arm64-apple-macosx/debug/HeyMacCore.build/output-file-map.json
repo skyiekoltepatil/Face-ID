@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/primary.swiftdeps"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/AntiSpoofClassifier.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/AntiSpoofClassifier.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/AntiSpoofClassifier.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/AntiSpoofClassifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/AntiSpoofClassifier.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/AntiSpoofClassifier.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/Embedding.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Embedding.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Embedding.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Embedding~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Embedding.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Embedding.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceEmbedder.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceEmbedder.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceEmbedder.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceEmbedder~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceEmbedder.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceEmbedder.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceGeometry.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceGeometry.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceGeometry.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceGeometry~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceGeometry.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceGeometry.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/VerificationPipeline.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/VerificationPipeline.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/VerificationPipeline.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/VerificationPipeline~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/VerificationPipeline.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/VerificationPipeline.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Resources.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Resources.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Resources.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Resources~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Resources.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Resources.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/CachingKeyProvider.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/CachingKeyProvider.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/CachingKeyProvider.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/CachingKeyProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/CachingKeyProvider.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/CachingKeyProvider.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/KeychainKeyProvider.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/KeychainKeyProvider.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/KeychainKeyProvider.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/KeychainKeyProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/KeychainKeyProvider.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/KeychainKeyProvider.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/SecureStore.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/SecureStore.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/SecureStore.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/SecureStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/SecureStore.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/SecureStore.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/LockStateMonitor.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/LockStateMonitor.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/LockStateMonitor.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/LockStateMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/LockStateMonitor.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/LockStateMonitor.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/ScreensaverWatcher.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/ScreensaverWatcher.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/ScreensaverWatcher.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/ScreensaverWatcher~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/ScreensaverWatcher.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/ScreensaverWatcher.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/resource_bundle_accessor.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/resource_bundle_accessor.dia"  }
+}
