@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+Target 'HeyMac-product' in project 'HeyMac'
+➜ Explicit dependency on target 'HeyMacCore' in project 'HeyMac'
+➜ Explicit dependency on target 'HeyMacEngine' in project 'HeyMac'
+➜ Explicit dependency on target 'Sparkle-product' in project 'Sparkle'
+Target 'Sparkle-product' in project 'Sparkle' (no dependencies)
+Target 'HeyMacEngine' in project 'HeyMac'
+➜ Explicit dependency on target 'HeyMacCore' in project 'HeyMac'
+Target 'HeyMacCore' in project 'HeyMac'
+➜ Explicit dependency on target 'HeyMac_HeyMacCore' in project 'HeyMac'
+Target 'HeyMac_HeyMacCore' in project 'HeyMac' (no dependencies)

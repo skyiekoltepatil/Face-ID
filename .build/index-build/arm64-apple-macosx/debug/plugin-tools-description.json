@@ -82,6 +82,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/EdgeLightController.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/HeyMacApp.swift"
         },
         {
@@ -212,6 +216,7 @@
         "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppDelegate.swift.o",
         "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppModel.swift.o",
         "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppUpdater.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/EdgeLightController.swift.o",
         "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/HeyMacApp.swift.o",
         "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/WindowPresenter.swift.o",
         "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppLockController.swift.o",
@@ -306,6 +311,7 @@
         "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppDelegate.swift",
         "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppModel.swift",
         "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppUpdater.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/EdgeLightController.swift",
         "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/HeyMacApp.swift",
         "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/WindowPresenter.swift",
         "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockController.swift",
@@ -1108,6 +1114,7 @@
       "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppDelegate.swift",
       "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppModel.swift",
       "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppUpdater.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/EdgeLightController.swift",
       "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/HeyMacApp.swift",
       "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/WindowPresenter.swift",
       "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockController.swift",
@@ -1606,6 +1613,10 @@
         {
           "kind" : "file",
           "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppUpdater.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/EdgeLightController.swift"
         },
         {
           "kind" : "file",

@@ -1,0 +1,12 @@
+/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/DerivedSources/resource_bundle_accessor.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/AntiSpoofClassifier.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/Embedding.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceEmbedder.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceGeometry.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/VerificationPipeline.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Resources.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/CachingKeyProvider.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/KeychainKeyProvider.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/SecureStore.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/LockStateMonitor.swift
+/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/ScreensaverWatcher.swift

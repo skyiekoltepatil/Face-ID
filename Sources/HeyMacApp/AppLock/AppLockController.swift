@@ -66,6 +66,11 @@ final class AppLockController {
         watcher.onTerminate = { [weak self] app in self?.handleTerminate(app) }
         watcher.start()
         observeSystemEvents()
+        
+        NotificationCenter.default.addObserver(forName: NSNotification.Name("HeyMacLowLightDetected"), object: nil, queue: .main) { [weak self] _ in
+            guard self?.episode != nil else { return }
+            EdgeLightController.shared.show()
+        }
     }
 
     func stop() {
@@ -161,6 +166,7 @@ final class AppLockController {
             NotchOverlayController.shared.finish(success: false)
             shield.model.phase = .needsAuth(message)
         }
+        EdgeLightController.shared.hide()
     }
 
     private func retry() {
@@ -175,6 +181,7 @@ final class AppLockController {
         activeApp?.hide()  // a save sheet or window must not show once the shield drops
         activeApp?.terminate()
         NotchOverlayController.shared.cancelScanning()
+        EdgeLightController.shared.hide()
         log("shield dismissed: quit-app")
         shield.dismiss()
         endEpisode()
@@ -193,7 +200,10 @@ final class AppLockController {
         activeApp = nil
         justActivatedPID = nil
         queue.removeAll()
-        if hadEpisode { NotchOverlayController.shared.cancelScanning() }  // the island may belong to a lock-screen scan
+        if hadEpisode { 
+            NotchOverlayController.shared.cancelScanning()
+            EdgeLightController.shared.hide()
+        }  // the island may belong to a lock-screen scan
         log("shield dismissed: revoked/stopped")
         shield.dismiss()
     }
@@ -229,6 +239,7 @@ final class AppLockController {
                 }
                 self.episode?.cancel()
                 NotchOverlayController.shared.cancelScanning()
+                EdgeLightController.shared.hide()
                 self.log("shield dismissed: switched-away to \(otherID)")
                 self.shield.dismiss()
                 if self.store.privacyLevel == .high {
@@ -247,6 +258,7 @@ final class AppLockController {
         if activeApp?.processIdentifier == app.processIdentifier {
             episode?.cancel()
             NotchOverlayController.shared.cancelScanning()
+            EdgeLightController.shared.hide()
             log("shield dismissed: app-terminated")
             shield.dismiss()
             endEpisode()

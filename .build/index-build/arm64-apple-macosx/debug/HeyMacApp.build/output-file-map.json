@@ -20,6 +20,12 @@
     "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppUpdater~partial.swiftmodule",
     "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppUpdater.swiftdeps",
     "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppUpdater.dia"  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/EdgeLightController.swift": {
+    "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/EdgeLightController.d",
+    "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/EdgeLightController.swift.o",
+    "swiftmodule": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/EdgeLightController~partial.swiftmodule",
+    "swift-dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/EdgeLightController.swiftdeps",
+    "diagnostics": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/EdgeLightController.dia"  },
   "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/HeyMacApp.swift": {
     "dependencies": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/HeyMacApp.d",
     "object": "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/HeyMacApp.swift.o",

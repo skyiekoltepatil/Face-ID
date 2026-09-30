@@ -27,6 +27,7 @@ public struct FrameEvaluation: Equatable, Sendable {
     public let similarity: Float
     public let isLive: Bool
     public let isMatch: Bool
+    public let brightness: Float
 
     public var accepted: Bool { isLive && isMatch }
 }
@@ -133,7 +134,8 @@ public final class VerificationPipeline {
         
         return FrameEvaluation(
             liveness: liveness.confidence, similarity: bestSimilarity,
-            isLive: isLive(liveness), isMatch: bestSimilarity >= config.matchThreshold
+            isLive: isLive(liveness), isMatch: bestSimilarity >= config.matchThreshold,
+            brightness: frame.averageBrightness
         )
     }
 

@@ -1,0 +1,12 @@
+{
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/AppLockBlacklist.swift" : {
+    "abi-baseline-json" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacEngine-t.build/Objects-normal/arm64/HeyMacEngine.abi.json",
+    "const-values" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacEngine-t.build/Objects-normal/arm64/HeyMacEngine-primary.swiftconstvalues",
+    "dependencies" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacEngine-t.build/Objects-normal/arm64/HeyMacEngine-primary.d",
+    "diagnostics" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacEngine-t.build/Objects-normal/arm64/HeyMacEngine-primary.dia",
+    "objc-header" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacEngine-t.build/Objects-normal/arm64/HeyMacEngine-Swift.h",
+    "swiftdoc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacEngine-t.build/Objects-normal/arm64/HeyMacEngine.swiftdoc",
+    "swiftmodule" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacEngine-t.build/Objects-normal/arm64/HeyMacEngine.swiftmodule",
+    "swiftsourceinfo" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacEngine-t.build/Objects-normal/arm64/HeyMacEngine.swiftsourceinfo"
+  }
+}

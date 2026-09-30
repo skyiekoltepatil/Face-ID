@@ -1,0 +1,4 @@
+module HeyMacCore {
+header "HeyMacCore-Swift.h"
+export *
+}

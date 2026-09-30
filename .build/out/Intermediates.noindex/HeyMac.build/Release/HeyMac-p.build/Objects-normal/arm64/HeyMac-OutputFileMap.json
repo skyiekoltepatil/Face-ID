@@ -1,0 +1,161 @@
+{
+  "" : {
+    "const-values" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMac-primary.swiftconstvalues",
+    "dependencies" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMac-primary.d",
+    "diagnostics" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMac-primary.dia",
+    "emit-module-dependencies" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMac-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMac-primary-emit-module.dia",
+    "pch" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMac-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMac-primary.swiftdeps"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppDelegate.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppModel.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppModel.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppModel.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppModel.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppUpdater.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppUpdater.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppUpdater.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppUpdater.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/EdgeLightController.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/EdgeLightController.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/EdgeLightController.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/EdgeLightController.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/HeyMacApp.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMacApp.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMacApp.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/HeyMacApp.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/WindowPresenter.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/WindowPresenter.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/WindowPresenter.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/WindowPresenter.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockController.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppLockController.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppLockController.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppLockController.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockPane.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppLockPane.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppLockPane.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppLockPane.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWatcher.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppWatcher.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppWatcher.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppWatcher.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWindowShield.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppWindowShield.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppWindowShield.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/AppWindowShield.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/LaunchAgent.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/LaunchAgent.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/LaunchAgent.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/LaunchAgent.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldController.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ShieldController.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ShieldController.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ShieldController.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldMode.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ShieldMode.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ShieldMode.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ShieldMode.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldView.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ShieldView.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ShieldView.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ShieldView.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/WindowTracker.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/WindowTracker.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/WindowTracker.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/WindowTracker.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Debug/UISnapshot.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/UISnapshot.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/UISnapshot.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/UISnapshot.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Components.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/Components.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/Components.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/Components.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Theme.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/Theme.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/LockScreenSpace.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/LockScreenSpace.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/LockScreenSpace.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/LockScreenSpace.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/MinimalUnlockView.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/MinimalUnlockView.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/MinimalUnlockView.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/MinimalUnlockView.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchGeometry.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchGeometry.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchGeometry.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchGeometry.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayController.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchOverlayController.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchOverlayController.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchOverlayController.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayView.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchOverlayView.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchOverlayView.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchOverlayView.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchShape.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchShape.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchShape.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/NotchShape.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/ScanAnimationView.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ScanAnimationView.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ScanAnimationView.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/ScanAnimationView.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/UnlockAnimationStyle.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/UnlockAnimationStyle.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/UnlockAnimationStyle.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/UnlockAnimationStyle.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/MenuBar/MenuContent.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/MenuContent.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/MenuContent.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/MenuContent.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Settings/SettingsView.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/SettingsView.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupFlow.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/SetupFlow.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/SetupFlow.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/SetupFlow.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupWizardView.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/SetupWizardView.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/SetupWizardView.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMac-p.build/Objects-normal/arm64/SetupWizardView.o"
+  }
+}

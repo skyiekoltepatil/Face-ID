@@ -1,0 +1,4 @@
+module HeyMacEngine {
+header "HeyMacEngine-Swift.h"
+export *
+}

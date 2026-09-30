@@ -22,7 +22,7 @@ public struct VerificationOutcome: Equatable, Sendable {
 
 public protocol FaceMatching: AnyObject {
     func run(timeout: TimeInterval, requiredConsecutive: Int, waitForTurn: TimeInterval,
-             keepGoing: () -> Bool) -> VerificationOutcome
+             keepGoing: () -> Bool, onLowLight: (() -> Void)?) -> VerificationOutcome
 }
 
 /// Runs a bounded verification window over live camera frames. A match needs
@@ -42,7 +42,7 @@ public final class FaceVerifier: FaceMatching, @unchecked Sendable {
 
     public func run(
         timeout: TimeInterval, requiredConsecutive: Int = 2, waitForTurn: TimeInterval = 0,
-        keepGoing: () -> Bool = { true }
+        keepGoing: () -> Bool = { true }, onLowLight: (() -> Void)? = nil
     ) -> VerificationOutcome {
         var outcome = VerificationOutcome()
         guard sessionLock.lock(before: Date().addingTimeInterval(waitForTurn)) else {
@@ -78,6 +78,7 @@ public final class FaceVerifier: FaceMatching, @unchecked Sendable {
 
         var lastSequence = 0
         var consecutive = 0
+        var firedLowLight = false
         while Date() < deadline, keepGoing() {
             guard let frame = camera.frame(newerThan: lastSequence) else {
                 Thread.sleep(forTimeInterval: 0.03)
@@ -86,6 +87,10 @@ public final class FaceVerifier: FaceMatching, @unchecked Sendable {
             lastSequence = frame.sequence
             do {
                 let evaluation = try pipeline.evaluate(image: frame.image, against: centroids)
+                if !firedLowLight && evaluation.brightness < 0.25 {
+                    firedLowLight = true
+                    onLowLight?()
+                }
                 outcome.framesEvaluated += 1
                 outcome.bestSimilarity = max(outcome.bestSimilarity, evaluation.similarity)
                 outcome.bestLiveness = max(outcome.bestLiveness, evaluation.liveness)

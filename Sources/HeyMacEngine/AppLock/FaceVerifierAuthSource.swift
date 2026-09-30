@@ -21,7 +21,11 @@ public final class FaceVerifierAuthSource: FaceAuthSource, @unchecked Sendable {
         let outcome = await withTaskCancellationHandler {
             await Task.detached(priority: .userInitiated) {
                 matcher.run(timeout: timeout, requiredConsecutive: 2, waitForTurn: 0.5,
-                            keepGoing: { !cancelled.isSet })
+                            keepGoing: { !cancelled.isSet }, onLowLight: {
+                                DispatchQueue.main.async {
+                                    NotificationCenter.default.post(name: NSNotification.Name("HeyMacLowLightDetected"), object: nil)
+                                }
+                            })
             }.value
         } onCancel: {
             cancelled.set()

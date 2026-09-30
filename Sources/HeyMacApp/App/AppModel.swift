@@ -177,13 +177,20 @@ final class AppModel {
         case .lockScreenUnlocked:
             lastEvent = "lock screen unlocked \(time)"
             countUnlock()
+            EdgeLightController.shared.hide()
         case .lockScreenPasswordRejected:
             lastEvent = "stored password rejected \(time)"
             lockScreenNeedsPassword = true
+            EdgeLightController.shared.hide()
         case .lockScreenScanEnded:
             lastEvent = "lock screen scan ended \(time)"
+            EdgeLightController.shared.hide()
         case .lockScreenProblem(let reason):
             lastEvent = reason
+            EdgeLightController.shared.hide()
+        case .lockScreenLowLight:
+            lastEvent = "low light edge flash \(time)"
+            EdgeLightController.shared.show()
         }
         NotchOverlayController.shared.handle(event)
     }

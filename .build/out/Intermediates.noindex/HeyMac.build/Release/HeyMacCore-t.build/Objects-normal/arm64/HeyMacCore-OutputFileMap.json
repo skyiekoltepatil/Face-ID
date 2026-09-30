@@ -1,0 +1,71 @@
+{
+  "" : {
+    "const-values" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary.swiftconstvalues",
+    "dependencies" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary.d",
+    "diagnostics" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary.dia",
+    "emit-module-dependencies" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary-emit-module.dia",
+    "pch" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary.swiftdeps"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/resource_bundle_accessor.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/AntiSpoofClassifier.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/AntiSpoofClassifier.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/AntiSpoofClassifier.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/AntiSpoofClassifier.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/Embedding.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/Embedding.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/Embedding.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/Embedding.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceEmbedder.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/FaceEmbedder.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/FaceEmbedder.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/FaceEmbedder.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceGeometry.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/FaceGeometry.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/FaceGeometry.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/FaceGeometry.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/VerificationPipeline.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/VerificationPipeline.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/VerificationPipeline.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/VerificationPipeline.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Resources.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/Resources.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/Resources.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/Resources.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/CachingKeyProvider.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/CachingKeyProvider.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/CachingKeyProvider.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/CachingKeyProvider.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/KeychainKeyProvider.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/KeychainKeyProvider.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/KeychainKeyProvider.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/KeychainKeyProvider.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/SecureStore.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/SecureStore.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/SecureStore.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/SecureStore.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/LockStateMonitor.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/LockStateMonitor.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/LockStateMonitor.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/LockStateMonitor.o"
+  },
+  "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/ScreensaverWatcher.swift" : {
+    "index-unit-output-path" : "/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/ScreensaverWatcher.o",
+    "llvm-bc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/ScreensaverWatcher.bc",
+    "object" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/ScreensaverWatcher.o"
+  }
+}

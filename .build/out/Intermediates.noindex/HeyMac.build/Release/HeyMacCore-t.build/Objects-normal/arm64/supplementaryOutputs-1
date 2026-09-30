@@ -1,0 +1,12 @@
+{
+  "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "abi-baseline-json" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore.abi.json",
+    "const-values" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary.swiftconstvalues",
+    "dependencies" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary.d",
+    "diagnostics" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-primary.dia",
+    "objc-header" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore-Swift.h",
+    "swiftdoc" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore.swiftdoc",
+    "swiftmodule" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore.swiftmodule",
+    "swiftsourceinfo" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/out/Intermediates.noindex/HeyMac.build/Release/HeyMacCore-t.build/Objects-normal/arm64/HeyMacCore.swiftsourceinfo"
+  }
+}
