@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.heymac.app</string>
+	<key>CFBundleName</key>
+	<string>Hey Mac</string>
+	<key>CFBundleDisplayName</key>
+	<string>Hey Mac</string>
+	<key>CFBundleExecutable</key>
+	<string>HeyMac</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://github.com/bhushankolte/HeyMac/releases/latest/download/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>0w5Lm33NoVePIpJVgH8Wl3nX+kniFhj7Gv4Robk7+o0=</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Hey Mac uses the camera to recognize your face for lock-screen unlock and App Lock. Images never leave this Mac.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 Bhushan Kolte. MIT License.</string>
+</dict>
+</plist>

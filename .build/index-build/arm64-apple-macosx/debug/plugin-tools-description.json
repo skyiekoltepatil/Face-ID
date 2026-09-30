@@ -1,0 +1,1990 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.xctest/Contents/MacOS/HeyMacPackageTests",
+      "coverageBinaryPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.xctest/Contents/MacOS/HeyMacPackageTests",
+      "packagePath" : "/Users/anakolte/Documents/GitHub/Face-ID",
+      "productName" : "HeyMacPackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMac_HeyMacCore.bundle/AntiSpoof.mlpkgdata" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Resources/AntiSpoof.mlpkgdata"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMac_HeyMacCore.bundle/AntiSpoof.mlpkgdata"
+        }
+      ]
+    },
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMac_HeyMacCore.bundle/ArcFace.mlpkgdata" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Resources/ArcFace.mlpkgdata"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMac_HeyMacCore.bundle/ArcFace.mlpkgdata"
+        }
+      ]
+    },
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMac_HeyMacCoreTests.bundle/Fixtures" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/Fixtures"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMac_HeyMacCoreTests.bundle/Fixtures"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.HeyMacApp-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/sources",
+      "importPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppUpdater.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/HeyMacApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/WindowPresenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockPane.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWatcher.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWindowShield.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/LaunchAgent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldMode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/WindowTracker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Debug/UISnapshot.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Components.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/LockScreenSpace.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/MinimalUnlockView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchGeometry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchShape.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/ScanAnimationView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/UnlockAnimationStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/MenuBar/MenuContent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Settings/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupFlow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupWizardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacEngine.swiftmodule"
+        },
+        {
+          "kind" : "directory",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Sparkle.framework"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "HeyMacApp",
+      "moduleOutputPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacApp.swiftmodule",
+      "objects" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppDelegate.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppModel.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppUpdater.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/HeyMacApp.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/WindowPresenter.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppLockController.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppLockPane.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppWatcher.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/AppWindowShield.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/LaunchAgent.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/ShieldController.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/ShieldMode.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/ShieldView.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/WindowTracker.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/UISnapshot.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/Components.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/Theme.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/LockScreenSpace.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/MinimalUnlockView.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/NotchGeometry.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/NotchOverlayController.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/NotchOverlayView.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/NotchShape.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/ScanAnimationView.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/UnlockAnimationStyle.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/MenuContent.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/SettingsView.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/SetupFlow.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/SetupWizardView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j15",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-I",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/artifacts/sparkle/Sparkle/Sparkle.xcframework/macos-arm64_x86_64",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/artifacts/sparkle/Sparkle/Sparkle.xcframework/macos-arm64_x86_64",
+        "-module-cache-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-F",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "face_id"
+      ],
+      "outputFileMapPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacApp.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppDelegate.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppModel.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppUpdater.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/HeyMacApp.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/WindowPresenter.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockController.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockPane.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWatcher.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWindowShield.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/LaunchAgent.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldController.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldMode.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldView.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/WindowTracker.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Debug/UISnapshot.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Components.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Theme.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/LockScreenSpace.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/MinimalUnlockView.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchGeometry.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayController.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayView.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchShape.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/ScanAnimationView.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/UnlockAnimationStyle.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/MenuBar/MenuContent.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Settings/SettingsView.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupFlow.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupWizardView.swift"
+      ],
+      "tempsPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.HeyMacCore-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/sources",
+      "importPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/AntiSpoofClassifier.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/Embedding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceEmbedder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceGeometry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/VerificationPipeline.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Resources.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/CachingKeyProvider.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/KeychainKeyProvider.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/SecureStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/LockStateMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/ScreensaverWatcher.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<HeyMacCore-arm64-apple-macosx-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HeyMacCore",
+      "moduleOutputPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacCore.swiftmodule",
+      "objects" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/AntiSpoofClassifier.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Embedding.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceEmbedder.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/FaceGeometry.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/VerificationPipeline.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/Resources.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/CachingKeyProvider.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/KeychainKeyProvider.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/SecureStore.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/LockStateMonitor.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/ScreensaverWatcher.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j15",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+        "-module-cache-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/include/HeyMacCore-Swift.h",
+        "-swift-version",
+        "6",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "face_id"
+      ],
+      "outputFileMapPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/AntiSpoofClassifier.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/Embedding.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceEmbedder.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceGeometry.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/VerificationPipeline.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Resources.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/CachingKeyProvider.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/KeychainKeyProvider.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/SecureStore.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/LockStateMonitor.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/ScreensaverWatcher.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.HeyMacCoreTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/sources",
+      "importPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/AntiSpoofClassifierTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/EmbeddingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceEmbedderTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceGeometryTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/LockStateMonitorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ResourceBundlingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ScreensaverWatcherTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/SecureStoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/VerificationPipelineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<HeyMacCoreTests-arm64-apple-macosx-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HeyMacCoreTests",
+      "moduleOutputPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacCoreTests.swiftmodule",
+      "objects" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/AntiSpoofClassifierTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/EmbeddingTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceEmbedderTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/FaceGeometryTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/LockStateMonitorTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ResourceBundlingTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/ScreensaverWatcherTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/SecureStoreTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/VerificationPipelineTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j15",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+        "-module-cache-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "6",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "face_id"
+      ],
+      "outputFileMapPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacCoreTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/AntiSpoofClassifierTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/EmbeddingTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceEmbedderTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceGeometryTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/LockStateMonitorTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ResourceBundlingTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ScreensaverWatcherTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/SecureStoreTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/VerificationPipelineTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.HeyMacEngine-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/sources",
+      "importPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/AppLockBlacklist.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/AuthCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/FaceVerifierAuthSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/InstalledApps.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/LocalSystemAuth.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/LockedAppStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/SessionBook.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLog.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/CameraCapture.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineEvent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineSettings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/Enroller.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/FaceVerifier.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/HeyMacRuntime.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/KeystrokeInjector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/LockScreenUnlocker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/SelfCheck.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/VerificationGate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HeyMacEngine",
+      "moduleOutputPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacEngine.swiftmodule",
+      "objects" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/AppLockBlacklist.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/AuthCoordinator.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/FaceVerifierAuthSource.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/InstalledApps.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/LocalSystemAuth.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/LockedAppStore.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/SessionBook.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/AppLog.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/CameraCapture.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/EngineController.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/EngineEvent.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/EngineSettings.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/Enroller.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/FaceVerifier.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/HeyMacRuntime.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/KeystrokeInjector.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/LockScreenUnlocker.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/SelfCheck.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/VerificationGate.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j15",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/include/HeyMacEngine-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "face_id"
+      ],
+      "outputFileMapPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacEngine.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/AppLockBlacklist.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/AuthCoordinator.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/FaceVerifierAuthSource.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/InstalledApps.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/LocalSystemAuth.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/LockedAppStore.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/SessionBook.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLog.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/CameraCapture.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineController.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineEvent.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineSettings.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/Enroller.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/FaceVerifier.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/HeyMacRuntime.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/KeystrokeInjector.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/LockScreenUnlocker.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/SelfCheck.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/VerificationGate.swift"
+      ],
+      "tempsPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.HeyMacEngineTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/sources",
+      "importPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/AuthCoordinatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/InstalledAppsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/LockedAppStoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/SessionBookTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLogTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/EngineSettingsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/EnrollerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/LockScreenUnlockerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/TestSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/VerificationOutcomeTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacEngine.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HeyMacEngineTests",
+      "moduleOutputPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacEngineTests.swiftmodule",
+      "objects" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/AuthCoordinatorTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/InstalledAppsTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/LockedAppStoreTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/SessionBookTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/AppLogTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/EngineSettingsTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/EnrollerTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/LockScreenUnlockerTests.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/TestSupport.swift.o",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/VerificationOutcomeTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j15",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "face_id"
+      ],
+      "outputFileMapPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacEngineTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/AuthCoordinatorTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/InstalledAppsTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/LockedAppStoreTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/SessionBookTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLogTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/EngineSettingsTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/EnrollerTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/LockScreenUnlockerTests.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/TestSupport.swift",
+        "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/VerificationOutcomeTests.swift"
+      ],
+      "tempsPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.HeyMacPackageTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/sources",
+      "importPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacEngineTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacCoreTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HeyMacPackageTests",
+      "moduleOutputPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j15",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/include/HeyMacPackageTests-Swift.h",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "face_id"
+      ],
+      "outputFileMapPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules/HeyMacPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "HeyMacApp" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "HeyMacApp",
+      "-package-name",
+      "face_id",
+      "-c",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppDelegate.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppModel.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppUpdater.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/HeyMacApp.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/WindowPresenter.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockController.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockPane.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWatcher.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWindowShield.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/LaunchAgent.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldController.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldMode.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldView.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/WindowTracker.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Debug/UISnapshot.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Components.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Theme.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/LockScreenSpace.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/MinimalUnlockView.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchGeometry.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayController.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayView.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchShape.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/ScanAnimationView.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/UnlockAnimationStyle.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/MenuBar/MenuContent.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Settings/SettingsView.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupFlow.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupWizardView.swift",
+      "-I",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j15",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-I",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/artifacts/sparkle/Sparkle/Sparkle.xcframework/macos-arm64_x86_64",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/artifacts/sparkle/Sparkle/Sparkle.xcframework/macos-arm64_x86_64",
+      "-module-cache-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-F",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "face_id",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "HeyMacCore" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "HeyMacCore",
+      "-package-name",
+      "face_id",
+      "-c",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/AntiSpoofClassifier.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/Embedding.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceEmbedder.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceGeometry.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/VerificationPipeline.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Resources.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/CachingKeyProvider.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/KeychainKeyProvider.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/SecureStore.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/LockStateMonitor.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/ScreensaverWatcher.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j15",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+      "-module-cache-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/include/HeyMacCore-Swift.h",
+      "-swift-version",
+      "6",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "face_id",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "HeyMacCoreTests" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "HeyMacCoreTests",
+      "-package-name",
+      "face_id",
+      "-c",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/AntiSpoofClassifierTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/EmbeddingTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceEmbedderTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceGeometryTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/LockStateMonitorTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ResourceBundlingTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ScreensaverWatcherTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/SecureStoreTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/VerificationPipelineTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j15",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+      "-module-cache-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "6",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "face_id",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "HeyMacEngine" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "HeyMacEngine",
+      "-package-name",
+      "face_id",
+      "-c",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/AppLockBlacklist.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/AuthCoordinator.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/FaceVerifierAuthSource.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/InstalledApps.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/LocalSystemAuth.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/LockedAppStore.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/SessionBook.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLog.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/CameraCapture.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineController.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineEvent.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineSettings.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/Enroller.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/FaceVerifier.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/HeyMacRuntime.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/KeystrokeInjector.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/LockScreenUnlocker.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/SelfCheck.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/VerificationGate.swift",
+      "-I",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j15",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/include/HeyMacEngine-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "face_id",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "HeyMacEngineTests" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "HeyMacEngineTests",
+      "-package-name",
+      "face_id",
+      "-c",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/AuthCoordinatorTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/InstalledAppsTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/LockedAppStoreTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/SessionBookTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLogTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/EngineSettingsTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/EnrollerTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/LockScreenUnlockerTests.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/TestSupport.swift",
+      "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/VerificationOutcomeTests.swift",
+      "-I",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j15",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "face_id",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "HeyMacPackageTests" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "HeyMacPackageTests",
+      "-package-name",
+      "face_id",
+      "-c",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j15",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/include/HeyMacPackageTests-Swift.h",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "face_id",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "HeyMacApp" : [
+      "Sparkle",
+      "HeyMacEngine",
+      "HeyMacCore"
+    ],
+    "HeyMacCore" : [
+
+    ],
+    "HeyMacCoreTests" : [
+      "HeyMacCore"
+    ],
+    "HeyMacEngine" : [
+      "HeyMacCore"
+    ],
+    "HeyMacEngineTests" : [
+      "HeyMacEngine",
+      "HeyMacCore"
+    ],
+    "HeyMacPackageTests" : [
+      "HeyMacCoreTests",
+      "HeyMacEngineTests",
+      "HeyMacEngine",
+      "HeyMacCore"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : [
+      {
+
+      }
+    ]
+  },
+  "writeCommands" : {
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/AppUpdater.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/HeyMacApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/App/WindowPresenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppLockPane.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWatcher.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/AppWindowShield.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/LaunchAgent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldMode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/ShieldView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/AppLock/WindowTracker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Debug/UISnapshot.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Components.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/DesignSystem/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/LockScreenSpace.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/MinimalUnlockView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchGeometry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchOverlayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/NotchShape.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/ScanAnimationView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Island/UnlockAnimationStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/MenuBar/MenuContent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Settings/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupFlow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacApp/Setup/SetupWizardView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacApp.build/sources"
+    },
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/AntiSpoofClassifier.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/Embedding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceEmbedder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/FaceGeometry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Recognition/VerificationPipeline.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Resources.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/CachingKeyProvider.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/KeychainKeyProvider.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/Security/SecureStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/LockStateMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacCore/System/ScreensaverWatcher.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCore.build/sources"
+    },
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/AntiSpoofClassifierTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/EmbeddingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceEmbedderTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/FaceGeometryTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/LockStateMonitorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ResourceBundlingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/ScreensaverWatcherTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/SecureStoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacCoreTests/VerificationPipelineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacCoreTests.build/sources"
+    },
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/AppLockBlacklist.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/AuthCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/FaceVerifierAuthSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/InstalledApps.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/LocalSystemAuth.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/LockedAppStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLock/SessionBook.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/AppLog.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/CameraCapture.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineEvent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/EngineSettings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/Enroller.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/FaceVerifier.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/HeyMacRuntime.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/KeystrokeInjector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/LockScreenUnlocker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/SelfCheck.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Sources/HeyMacEngine/VerificationGate.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngine.build/sources"
+    },
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/AuthCoordinatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/InstalledAppsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/LockedAppStoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLock/SessionBookTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/AppLogTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/EngineSettingsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/EnrollerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/LockScreenUnlockerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/TestSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/Tests/HeyMacEngineTests/VerificationOutcomeTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacEngineTests.build/sources"
+    },
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/HeyMacPackageTests.build/sources"
+    },
+    "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/anakolte/Documents/GitHub/Face-ID/.build/index-build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}
