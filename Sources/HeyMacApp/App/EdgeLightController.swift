@@ -4,13 +4,21 @@ import SwiftUI
 @MainActor
 final class EdgeLightController {
     static let shared = EdgeLightController()
+    
     private var window: NSPanel?
     private let elevated = LockScreenSpace()
+    private var isVisible = false
 
     func show() {
+        guard !isVisible else { return }
+        isVisible = true
+
+        let screen = NotchGeometry.preferredScreen ?? NSScreen.main ?? NSScreen.screens.first
+        let screenFrame = screen?.frame ?? NSRect(x: 0, y: 0, width: 1440, height: 900)
+
         if window == nil {
             let panel = NSPanel(
-                contentRect: NSScreen.main?.frame ?? NSRect(x: 0, y: 0, width: 800, height: 600),
+                contentRect: screenFrame,
                 styleMask: [.borderless, .nonactivatingPanel],
                 backing: .buffered, defer: false
             )
@@ -27,36 +35,51 @@ final class EdgeLightController {
             panel.contentView = view
             self.window = panel
         }
-        
+
         guard let window = self.window else { return }
-        window.setFrame(NSScreen.main?.frame ?? window.frame, display: true)
+        window.setFrame(screenFrame, display: true)
         
         elevated?.show(window)
-        
         window.alphaValue = 0
         window.orderFrontRegardless()
+
         NSAnimationContext.runAnimationGroup { context in
-            context.duration = 0.5
+            context.duration = 0.35
             window.animator().alphaValue = 1.0
         }
     }
 
     func hide() {
-        guard let window = self.window else { return }
+        guard isVisible, let window = self.window else { return }
+        isVisible = false
+
         NSAnimationContext.runAnimationGroup({ context in
-            context.duration = 0.5
+            context.duration = 0.3
             window.animator().alphaValue = 0.0
-        }, completionHandler: {
-            self.elevated?.hide(window)
-            window.orderOut(nil)
+        }, completionHandler: { [weak self] in
+            Task { @MainActor [weak self] in
+                guard let self, !self.isVisible else { return }
+                self.elevated?.hide(window)
+                window.orderOut(nil)
+            }
         })
     }
 }
 
+/// A soft, glowing curved border mimicking native MacBook screen illumination (like Photo Booth / Studio Light).
 struct EdgeLightView: View {
     var body: some View {
-        Rectangle()
-            .stroke(Color.white, lineWidth: 80)
-            .edgesIgnoringSafeArea(.all)
+        ZStack {
+            // Soft ambient glow spreading inward and outward
+            RoundedRectangle(cornerRadius: 46, style: .continuous)
+                .strokeBorder(Color.white.opacity(0.85), lineWidth: 50)
+                .blur(radius: 18)
+
+            // Bright core illumination
+            RoundedRectangle(cornerRadius: 42, style: .continuous)
+                .strokeBorder(Color.white, lineWidth: 32)
+                .blur(radius: 2)
+        }
+        .edgesIgnoringSafeArea(.all)
     }
 }

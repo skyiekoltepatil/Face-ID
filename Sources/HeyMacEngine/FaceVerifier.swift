@@ -100,6 +100,10 @@ public final class FaceVerifier: FaceMatching, @unchecked Sendable {
                     return outcome
                 }
             } catch {
+                if !firedLowLight, let rgba = RGBAImage(cgImage: frame.image), rgba.averageBrightness < 0.25 {
+                    firedLowLight = true
+                    onLowLight?()
+                }
                 outcome.framesWithoutFace += 1
                 consecutive = 0
             }

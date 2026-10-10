@@ -167,6 +167,7 @@ final class AppModel {
     func stopEngine() {
         controller?.stop()
         controller = nil
+        EdgeLightController.shared.hide()
     }
 
     func handle(_ event: EngineEvent) {
@@ -189,7 +190,7 @@ final class AppModel {
             lastEvent = reason
             EdgeLightController.shared.hide()
         case .lockScreenLowLight:
-            lastEvent = "low light edge flash \(time)"
+            lastEvent = "low light detected \(time)"
             EdgeLightController.shared.show()
         }
         NotchOverlayController.shared.handle(event)

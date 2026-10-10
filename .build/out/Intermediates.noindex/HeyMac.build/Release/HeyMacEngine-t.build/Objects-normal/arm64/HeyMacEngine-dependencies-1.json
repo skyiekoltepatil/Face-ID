@@ -2,107 +2,107 @@
   {
     "isFramework" : true,
     "moduleName" : "AVFAudio",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AVFAudio-3ACTKNC45G394.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AVFAudio-3O1DGRON5EATZ.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "AVFoundation",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AVFoundation-3917QBY2C4KD7.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AVFoundation-2CT5PL845KJK9.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Accelerate",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Accelerate-WYFJ5X5S3V6B.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Accelerate-1EK4NZWX2JHRT.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "AudioToolbox",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AudioToolbox-2RDGBWCL6DKLW.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AudioToolbox-27DB39M65IDV3.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "ColorSync",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-26WBEBOHTPQ19.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-2XWOAQH8CVF2P.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "Combine",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Combine-3SAQVZ0NDSXSF.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Combine-3I51XNDNSVWMG.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Compression",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Compression-1WSE1NMWR25O8.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Compression-R785F716HSXE.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "CoreAudio",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-17SWBZ1DRT9GQ.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-OWFA2LTSXRP3.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "CoreFoundation",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-20RXRMBE0GBTR.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-3F9BS16L0TS5H.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreGraphics",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-11BZJDYVC5A04.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-4B9CLBFX93TT.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "CoreImage",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-1XFH9CL4SSGMX.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-1HJK9QYZQGYR1.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "CoreMIDI",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMIDI-18V0J5YEH6Q7T.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMIDI-9TUKB76NCVYZ.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreML",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreML-2PTTQI0G7L9C4.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreML-3W33D3TC2THCZ.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreMedia",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-3E0Q3X6PVPS5B.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-PM02DGW2SNLR.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreText",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-2GEX1DP3VIIWZ.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-23NA734N667TG.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CoreVideo",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-377KYQUYD2N48.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-CB26ZFXU1FWA.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "CryptoKit",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CryptoKit-LEP55HXOGHYC.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CryptoKit-28JN3YGYM8IRI.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Darwin",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-1673RW6IFD1WZ.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-XQZHFJ07SRCZ.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "DataDetection",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-3DPPDFQ1AZC1A.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-36YG1LTTKPC4A.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Dispatch",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-1LBNXWSVEN6LS.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-13LQGZOZEYP21.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "Foundation",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-3OHKSN4GJ6QEV.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-3UPSWN6Q7JZMJ.swiftmodule"
   },
   {
     "isFramework" : false,
@@ -112,590 +112,590 @@
   {
     "isFramework" : false,
     "moduleName" : "IOKit",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-KR43247WDRQF.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-3CMT3BSRB6KQT.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "ImageIO",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-8BT1O6LW2MJD.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-1C8K4QWCUTNE6.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "LocalAuthentication",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/LocalAuthentication-22EQAT2DCTW1J.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/LocalAuthentication-6M4FX3TWZ9QY.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "MediaToolbox",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/MediaToolbox-2ZP0DPDO75H1U.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/MediaToolbox-4NQZ4SMTLCA1.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Metal",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-1LADKB5F9T7M2.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-A8T1HPUVTIVG.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "ObjectiveC",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-285YA8SOWRZZ1.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-2YML3RMKE6JNW.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Observation",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Observation-FAEUMX3FCHAF.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Observation-3XIPGNVOW6EH.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "QuartzCore",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-XIHVPZESVRX1.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-3LTAYNITSS2HP.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Swift",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Swift-2KIXN4IPI7HLC.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Swift-308FD6JDU0AI.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "Synchronization",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Synchronization-1IST6O1JLUS2M.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Synchronization-1DMVVK1C0ZXRR.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "System",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/System-3JW2V5H7QFH1O.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/System-T3QCV2K0KOI9.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-3PXEAYL9PHMBM.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-3MAUB2VJOL5XG.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "VideoToolbox",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/VideoToolbox-1X66XOZIAK7S3.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/VideoToolbox-3B25JKV2LZVKP.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "Vision",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Vision-2REUTLPFMUFFO.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Vision-3BM1ZMU39WD8E.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "XPC",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-PQ2ZBKC7EBZJ.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-30K0R0I64KO53.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_Builtin_float",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-1FS9GLJME3RSJ.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-15NLZWGH30F46.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_Concurrency",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Concurrency-BY7NWHQER8LC.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Concurrency-1KL7EL2X1ZTVX.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-GLXI2TXJ1EZD.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-22YZ6PNEA6YL0.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-195U1TO41WEUB.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-1C12EPGR32O0G.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-5S5VJOMM2LOE.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-NYZHO98XQE99.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "_StringProcessing",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_StringProcessing-1D5SDPR6PM2BO.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_StringProcessing-1VOWUBRF6CPBP.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "os",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/os-17ELH7VRHLCMC.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/os-1XYLWCFZRYU1F.swiftmodule"
   },
   {
     "isFramework" : false,
     "moduleName" : "simd",
-    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/simd-MHQJVBPJ36LM.swiftmodule"
+    "modulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/simd-3NCCJWSFUC9WM.swiftmodule"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/AVFAudio.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AVFAudio-2I3W0BN7PQT6DEY5HWU81IXH4.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AVFAudio-CEETGMT49OOG0JI1NVE7VIGII.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AVFAudio"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/AVFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AVFoundation-D7K4OYNL2STSSEAJ6FKXU09HH.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AVFoundation-28MUT887X9Z2RN2XDICYJ0R4V.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AVFoundation"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Accelerate.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Accelerate-QVU2PGY0FLOM98FKRACQ0L6P.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Accelerate-DGBA7WF5CJTXO24GAYNJ6RI87.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accelerate"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ApplicationServices-E4VBCM3KO6RQMC25BSPBB7B48.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ApplicationServices-CUD7GMIVV3Y2YCD9TF3NQXJYJ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ApplicationServices"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/AudioToolbox.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AudioToolbox-93HCHN4CXYXHNTKZW5VE7AJS3.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/AudioToolbox-5M8KW50S7FP9R1SSXKAF1LQFL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AudioToolbox"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CFNetwork-BKM76CUB3OP3DFX21LE8U18LG.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CFNetwork-7KVGHKXSKBNQWRXG98EINQXKF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/cups.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CUPS-3K6KSM8OZW1AZ2DBWSN11QF5H.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CUPS-BWQUO4EU68CT6H83SOJTQLLT0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CUPS"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Carbon.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Carbon-9R4YHOPCJL67SQDPSL3II7TNY.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Carbon-2CPXNW7O28K18F8NJWUXE1M02.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Carbon"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-1XKFS89FED1IYWQD6R8I5C4WP.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-D8N9H7FJT5CTX41I7LEHK00GK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ColorSync"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/compression.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Compression-CMLLC9LERQRIBYRRNYF7YNRZ0.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Compression-9HHLPJGL1D9ZUJRAI5X84HKBY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Compression"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-9ZAGTYLMJNMKW592RLEA2A80L.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-7J58LN1VEW0JK3AK09BXYYQDR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudio"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudioTypes-30YS012JIVUITZZS6TG77WWGF.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudioTypes-3BPU6GBIM62UTUFI7ZC2PAVT1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudioTypes"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-ETURCM2C4OW48NR0H7V5355ZC.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-85MJWAVZFOLXB8PMAI77X06H3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-B4C86M5PYB8VJZRRBA4LEV5RC.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-28WHMJF8FWBZLVML9MV0R8X16.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-4WAYDXDIFUTN56FAN70WKV2BS.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-3UUAMJSHH9Z60BDX4V9WWA776.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreMIDI.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMIDI-7E4S0XMHTD9ZDG3BBDM59PW0M.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMIDI-9X56NAJS58VAOFM3QW5MGHO1B.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMIDI"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreML.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreML-6VMZRVBIEA58Y1ER0MJUOL4PL.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreML-F41Q4NICV0SUEINTS2J14C9K2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreML"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-EQ4MMVI8AQ967GH4WT3NEK3GH.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-3VYRWNJ8F5JKIYRQI4I8G3JRG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMedia"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreServices-3W1T0UMUIRPD17HVQ2XT7JU6D.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreServices-513MXM8T3XGK9H16UBGGQWTPS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreServices"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-EH3OJ5R2CYYOGM2OISCUBILBI.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-BZMUR6BRXXJSH512LT2GTJ1ZP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-CE2Q2P8TS92BLWLE8LY22KUY7.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-1QM5BOG8LAHE5AFQ6QUG9GVBY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-58BST27OWAU8AG7J066BA45QC.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-3Y0NJIIPDU9AHRORZKCO3TSC7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-8N213NM8X4XOB9XTBMM22Z6DI.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-8UBF09MUCQ1JJS87W1WDY9GUY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/DiskArbitration-8TN6T6XR5RP5ZOYIU4P8Y3TN9.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/DiskArbitration-1QN5YQ7GDZB1MDO2RYTPKYL7T.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DiskArbitration"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-EJ48AFSJO1JZAT8643DUGWQ6J.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-4A4ZN6VU8M0EO8PQAJDSJHTWD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-EONLEY78ZNHMH55EMWWFCNAHL.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-62AZ798ITG2H6IZSHNBI5VWNY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-9TFQL7I5H8GMMSXH0Y1TM9JWC.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-6JAFLD0D1C1E6QXAH6CBGLNIW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOKit"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/IOSurface-16S36U03U1RWCCR72DAWWVGPM.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/IOSurface-60CA6OG9RW969AZFZFSSIXZNE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-9LKJ3PK048BOYIOZGNJFGFRA2.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-ZTASXP4TEP3PYX8GIDEL7SFG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/LocalAuthentication.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/LocalAuthentication-1584D4CLPP30JRAC446SXA9E1.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/LocalAuthentication-DJHFO6POS0JAOT9Y7CROG4XY3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "LocalAuthentication"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/MachO-32SXQ08T11PFJ9M4PSQMDQQNP.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/MachO-1BAZ2I765NWKLT7HFIHYJU7PI.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/MediaToolbox.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/MediaToolbox-B78TQDUPGH78VP0EUZLOV3HI2.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/MediaToolbox-71S5XRWROSXF8PXY2AOFDDBM3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MediaToolbox"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-84LZNZP3YXUM4M234HZ6U5WXI.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-482GHWZ4MQBJ58K3VOQE26QXE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-92Q8UYH7A74JEVCOY9QY9B8LX.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-9JZ13S0LYLN098M8Q2VVTBJ8P.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/OpenGL-2N2RPUIG5M05B8RCZ6XVMKMD2.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/OpenGL-85YNF3I36X9S9ZB3VLFBF6LJ6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGL"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-3WTRN3YQPT52HWCY6H5DVTWY.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-9WV6N5JUQGKSOMGW9HIOJD4SC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Security-1HQT01FPZXVLBW02A76C01DHF.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Security-7RZXTHPAF9IDM832L775WZUN5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftShims-8CF3XOQYBI822F0NXB0W13HMW.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftShims-E5A1U2UZVPL72Z2AQ0GIREVDE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-44QV8EHCK4IVCVRF7307AFVBX.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-9PGAY3JSPOD6F45TM8ESG2VU2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/VideoToolbox.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/VideoToolbox-80ZLCPOYELKY7KUGUEFPW3SFM.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/VideoToolbox-BIHX3S2MPXOI7U0B3Q9H3UQI9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "VideoToolbox"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Vision.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Vision-3XSBKW75IVN4IWGE54A26KSGQ.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/Vision-70A5LPN1Z4R9DY9XQC9X79BQX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Vision"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-1HVCSYFLE0CZ868H91V9Z88YN.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-1M4ILK1NVBAYC2G26LAUMX0DE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-10IBO6DEUPBS292XZW4OJXXCE.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-8D2ALW6AVF7S0JTUL22NDGR7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-DHR0YSCQMN2AYO60P4H76UPN0.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-DU20H7YPYSUMD3LBOU66GUIVF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-AKL6980URVVEU3CRW8JVJQ444.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-ENTQAKSM7QT50DCBUIF9FHX1Z.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-3DR9KWXUJ3YXUZIO2RNL4EJON.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-AXGKY0Z3OBMMA31R34PMHU4OC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_limits-EN82ASYIUXFBYNP9N77X759U5.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_limits-6SIWBQ0A983NPKI6CYNTFFVE4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-D6H4YS480BZRCOLXJZBWTYQPG.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-3FWIFFL5USYWT06T58NLA5DR1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-2BEJSAKF7CLEFZNI52SN4RXT8.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-F1J3C1UTHA5EG03AS9I5EJ9QT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-798YVJK971O3QZB17VB6BU1M5.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-ECJRXXQVTOQCSXNW3M6BAAL05.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stddef-21ESX2IGJTLX6NNNCYF0DR2Y2.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stddef-31O3WNB0MPA854HHFDQYGPVWB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdint-3GUX8R06TF3VUBBZ5BA2DJ259.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdint-62P35WG78HIEPOGP7RNAYL93C.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-66VOA8DGHUOIDM8G8WAS2BAKL.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-DHAY9NWRBA7GOIHNHQ0ND6F54.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-26FF59Y62807HRZLXNTMI85AC.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-8DAPIGTK4SBG9BIGZU6CXHCRR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-1CM08CFNMCPD0TT5GJQBWR2A6.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-63GZALI0JST1IFDKZQJCYWGTV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-78K5P9GA7ZAUX4409ZH3BOP4P.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-9N5CCGF33UOFV57RSWA5WPWL9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-EVEP8406ALNMHKHJ5N9MHOQCM.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-BIUPJUWJ0ES760M4H7TKP6QTR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/launch.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/launch-EEIQ7O5AUWIAIFW6I8WTPRLY0.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/launch-7OQUZO24XBF1WG5U826JOOWEA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "launch"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/libDER\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/libDER-6SUHYKKVGG3WM5JHQP5R9HARH.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/libDER-9MZAQYOY1SF4KZIOC6JCD4SXN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libDER"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/libkern.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/libkern-7F5EPYB33OUH05BGOMGWCPMJM.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/libkern-7QO9O5CBUBUVEA35HKN7S2EJN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libkern"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/os-F4BEB0CKCXH7NGHVANQGXC2VH.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/os-AP0Q29XS1H10WDE7RNE8P96JT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/os_object-EU74RYGJL6LJP1UIZF6378FD7.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/os_object-65W5AJDVQFBD0SWCMBRRXEGW6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/os_workgroup-BWTIA7OEXY45AK5ELCI6ZNEF2.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/os_workgroup-F1ZWIMVB76EAX9ZH5B1YSGC36.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ptrauth-4AWKDPIPDQ6GE8CJCCR2HY3Z.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ptrauth-D9UZDGFXFL1XCOGO2AO2LYNHN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ptrcheck-1KDHPP1MHXUR0O077TTLHAOR6.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/ptrcheck-X2WQW0DF1K5BPZMCOPJ1908D.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/simd-5OK2M9RYJ4YHW1SSUB5WGCI6Q.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/simd-E58Z1NS1MQAAB9S8LOY1V33C5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/c_standard_library.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/string_h-DJHSJ62OR8TTQRTRNCUGKBT3H.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/string_h-21K50HJXMXPI5KI597P3VFKC2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "string_h"
   },
   {
     "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/sys_types-CAEPWJ8DHX1GP8AJNJZTGV2FP.pcm",
+    "clangModulePath" : "\/Users\/anakolte\/Documents\/GitHub\/Face-ID\/.build\/out\/SDKExplicitPrecompiledModules\/sys_types-MXG7PNALYIAU5INSUQ8HCZ4W.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"
